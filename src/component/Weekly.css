@@ -1,0 +1,28 @@
+    .root {
+      margin-top: "20px";
+      display: "flex";
+      flex-wrap: "wrap";
+      justify-content: "space-around";
+      overflow: "auto";
+    }
+        .gridList {
+      flex-wrap: "nowrap";
+      align-content: "center";
+    }
+    .weather__icon {
+      width: 60px;
+      height: 60px;
+      top: 0;
+      transform: "translateY(0%)";
+      left: 0;
+    }
+    .day {
+      text-align: "center";
+      border: "1px solid";
+      min-width: "185px";
+    }
+    .info {
+      font-size: 21px;
+      font-weight: "bold";
+    }
+  

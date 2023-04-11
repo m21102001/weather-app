@@ -1,0 +1,31 @@
+.unit__icon {
+  width: 22px;
+  height: 22px;
+  align-self: "center";
+  margin-right: 4px;
+  margin-left: 20px;
+}
+.unit__icon1 {
+  width: 22px;
+  height: 22px;
+  align-self: "center";
+  font-size: "15px";
+}
+.weather__icon {
+  width: 90px;
+  height: 90px;
+  top: 0;
+}
+.main {
+  overflow: "auto";
+  padding: 5px;
+}
+.text__left {
+  float: "left";
+}
+.text__right {
+  float: "right";
+}
+.span {
+  font-weight: "bold";
+}
