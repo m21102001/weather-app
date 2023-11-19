@@ -158,24 +158,3 @@ function App() {
 }
 
 export default App;
-
-// import { useState } from 'react'
-// import './App.css'
-// import MainPage from './component/MainPage'
-
-// function App() {
-//   const [count, setCount] = useState(100)
-
-//   return (
-//     <div className="App">
-//       <MainPage/>
-//       <div className="card">
-//         <button onClick={() => setCount((count) => count + 100)}>
-//           count is {count}
-//         </button>
-//       </div>
-//     </div>
-//   )
-// }
-
-// export default App
